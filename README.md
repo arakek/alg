@@ -3,5 +3,5 @@
 # Что тут у нас?
 a_prim.m - алгоритм Прима;<br>
 ff.cpp - алгоритм Форда Фалкерсона;<br>
-Floyd's Algorithm - ¯\_(ツ)_/¯.
+Floyd's Algorithm - ¯\_(ツ)_/¯.<br>
 biSearch - бинарный поиск
