@@ -3,7 +3,7 @@ def BiSearch(v, key):
     left = 0
     right = len(v) - 1
     while True:
-        mid = round((left + right)/2)        
+        mid = (left + right)//2        
         if key < v[mid]:
             right = mid - 1
         elif key > v[mid]:
